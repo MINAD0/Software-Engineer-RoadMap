@@ -5,7 +5,7 @@
 ## Overview
 This repository contains a comprehensive guide on essential software engineering concepts, including algorithms and data structures, object-oriented programming (OOP), software design patterns, software architecture, databases, APIs, agile methodologies, software testing, DevOps, and software design principles.
 
-[My Mind Map](https://xmind.app/m/C9BcCc)
+[My Mind Map](https://xmind.app/m/YE4rZ5)
 
 ## Table of Contents
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
